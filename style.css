@@ -284,7 +284,7 @@ header.sticky ul li a{
   margin-top:auto;
 }
 .roster{
-  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url('https://i.postimg.cc/wTrfY3Hf/IMG-7616.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url('./Assets/Images/IMG-7616.jpg');
   background-size:cover;
   background-position:top;
   padding:60px 0;
